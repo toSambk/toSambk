@@ -2,7 +2,7 @@
 
 Java Backend Engineer building distributed systems for retail and fintech.
 
-I work with Java 17, Kotlin, Spring Boot, microservices, messaging, and high-load data processing. Most of my experience is around backend platforms where reliability, throughput, and operational clarity matter.
+I work with Java, Kotlin, Spring Boot, microservices, messaging, and high-load data processing. Most of my experience is around backend platforms where reliability, throughput, and operational clarity matter.
 
 ## What I do
 
