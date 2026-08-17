@@ -14,7 +14,7 @@ I work with Java 17, Kotlin, Spring Boot, microservices, messaging, and high-loa
 ## Selected impact
 
 - Reduced preprocessing for one distribution center across 230 suppliers from **5 minutes to 230 milliseconds** by building an asynchronous task-aggregation and batch-write framework
-- Cut calculation time from **30 minutes to 11 minutes** with Apache Ignite distributed caching and parallel compute tasks
+- Cut calculation time for destribution center demand calculation from **30 minutes to 11 minutes** with Apache Ignite distributed caching and parallel compute tasks
 - Implemented transactional outbox and inbox patterns for effectively exactly-once processing in a microservice environment
 - Increased stable email-notification throughput from **15 TPS to 50 TPS** by migrating event delivery to Kafka and enabling horizontal scaling
 
